@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/root">
+        <file>archer-logo-color-80px.png</file>
+    </qresource>
+</RCC>
